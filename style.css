@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Porto Child
+ Description:  Porto Child Theme/
+ Template:     porto
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  portochild
+*/
+
+.woocommerce-variation-price .price span.woocommerce-Price-amount.amount {
+     display: none; 
+}
+#header .main-menu li.menu-item a {
+    
+    letter-spacing: 0 !important;
+    
+    padding: 18.5px 9px 20.5px 9px !important;
+}
